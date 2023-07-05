@@ -1,0 +1,197 @@
+html, body { 
+    margin: 100px; 
+    padding: 0; 
+    font-family: 'Helvetica', 'Arial';
+}
+#top-bar { 
+    width: 100%; 
+    background: #F1F1F1; 
+    border-bottom: 1px solid #D4D4D4; 
+    height: 25px;
+}
+.normal-wrapper { 
+    width: 900px; 
+    margin: 0 auto; 
+    padding: 15px 40px; 
+    overflow: auto;
+}
+.fa { 
+    color: #000000; 
+    font-size: 60pt; 
+    float: left;
+}
+h1 { 
+    float: left; 
+    margin: 21px 0 0 25px;
+}
+#navbar { 
+    list-style-type: none; 
+    margin: 29px 0 0 0; 
+    padding: 0; float: right; 
+    font-size: 16pt;
+}
+#navbar li { 
+    display: inline; 
+}
+#navbar li a:link, #navbar li a:visited, #navbar li a:active { 
+    text-decoration: none; 
+    padding: 0 16px 0 10px; 
+    margin: 0; 
+    border-right: 2px solid #B4B4B4;
+}
+#navbar li a:link.last-link { 
+
+    border-right: 0px;
+}
+#navbar li a:hover { 
+ 
+    color: #EB6361;
+}
+#top-color-splash { 
+    width: 100%; 
+    height: 4px; 
+    background: #EB6361;
+}
+.change{
+    max-width: 400px;
+    height: 400px;
+}
+.one-third { 
+    width: 500px; 
+    float: left; 
+    box-sizing: border-box; 
+    margin-top: 20px;
+    text-align: center;
+  
+}
+.two-third { 
+    width: 700px; 
+    box-sizing: border-box; 
+    padding-left: 40px; 
+    margin-top: 20px;
+}
+.featured-image { 
+    max-width: 700px; 
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.no-margin-top { 
+    margin-top: 0; 
+}
+.V{
+    font-size: 30px;
+    width: 700px;
+    text-align: left;
+   margin-bottom: 10px;
+}
+.thanh2 { 
+    width: 100%; 
+    height: 4px; 
+    background: black;}
+#lk {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 0 0 0;
+    display: inline;
+}
+#lk li a:hover { 
+ 
+    color: green;
+}
+.ND{
+    text-align: center;
+    margin-top: 30px;
+}
+.V2{
+    font-size: 30px;
+    width: 700px;
+    text-align: left;
+   margin-bottom: 10px;
+   margin-top: 30px;
+}
+.icon{
+    width: 100%;
+    height: 30px;
+text-align: center;
+}
+
+
+.thanh3 { 
+    width: 100%; 
+    height: 4px; 
+    background: black;
+    margin-top: 20px;
+
+}
+.type{ margin-bottom: 50px;
+    text-align: center;
+}
+.y{margin: 20px;
+
+}
+.button{
+    background-color: black;
+    color: white;
+   
+}
+.text{
+    text-align: center;
+    margin-top: 20px;
+}
+.bbb{
+    font-size: 20px;  
+}
+.dieuchinh {
+width: 100%;
+height: 300px;
+display: block;
+background-color: #B4B4B4;
+margin-top: 20px;
+}
+#menu { 
+    list-style-type: none; 
+   
+    padding: 0; 
+    font-size: 16pt;
+}
+#menu li { 
+    display: inline; 
+}
+#menu li a:link, #menu li a:visited, #menu li a:active { 
+    text-decoration: none; 
+    padding: 0 16px 0 10px; 
+    margin: 0; 
+    border-right: 2px solid #B4B4B4;
+}
+#menu li a:link.last-link { 
+
+    border-right: 0px;
+}
+#menu li a:hover { 
+ 
+    color: #EB6361;
+}
+.dancachicon{
+letter-spacing: 35px;
+   
+}
+.thanh2{
+    margin-top: 20px;
+}
+.V3{
+    font-size: 30px;
+    width: 700px;
+    text-align: left;
+   margin-bottom: 10px;
+   margin-top: 15px;
+}
+.to{
+width: 100%;
+height: 30px;
+}
+.to2{
+    width: 100%;
+    height: 300px;}
+    .featured-image2{
+        background-image: url("anh4.1.jpg");
+    }
